@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ヲズワルド",
+  "base_artist": "煮ル果実",
+  "createdAt": "2026-03-06T00:07:04.757591Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヲズワルド",
+      "artist": "煮ル果実",
+      "has_synced": true,
+      "path": "select/01_ヲズワルド_煮ル果実.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヲズワルド",
+      "artist": "Yuu Miyashita feat. 煮ル果実",
+      "has_synced": true,
+      "path": "select/02_ヲズワルド_Yuu_Miyashita_feat._煮ル果実.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヲズワルド",
+      "artist": "宮下遊 {yuu miyashita}",
+      "has_synced": true,
+      "path": "select/03_ヲズワルド_宮下遊_{yuu_miyashita}.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヲズワルド",
+      "artist": "宮下遊; 煮ル果実",
+      "has_synced": true,
+      "path": "select/04_ヲズワルド_宮下遊;_煮ル果実.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヲズワルド",
+      "artist": "NILFRUITS (煮ル果実)",
+      "has_synced": true,
+      "path": "select/05_ヲズワルド_NILFRUITS_(煮ル果実).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヲズワルド",
+      "artist": "煮ル果実",
+      "has_synced": false,
+      "path": "select/pl_01_ヲズワルド_煮ル果実.txt"
+    }
+  ]
+}
